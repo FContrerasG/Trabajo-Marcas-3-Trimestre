@@ -1,0 +1,58 @@
+body{
+    background-color: #dae8fc;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+}
+#HistoriaLink{
+    
+    text-align: justify;
+    clear: both;
+    width: 350px;   
+    border: 100px;
+    padding: 100px;
+}
+#HistoriaLink2{
+    clear: both;
+    text-align: justify;
+    position: relative;
+    bottom: 800px;
+    left:500px;
+    padding: 100px;
+    width: 900px;   
+    border: 100px;
+ 
+    
+  
+    
+    
+}
+#PartidosLink{
+    text-align: justify;
+    clear: both;
+    position: relative;
+    bottom: 900px;
+    left:500px;
+    padding: 100px;
+    width: 900px;   
+    border: 100px;
+   
+}
+#ClubLink{
+    clear: both;
+    text-align: justify;
+    position: relative;
+    bottom: 900px;
+    right:100px;
+    padding: 100px;
+    width: 900px;   
+    border: 100px;
+
+}
+#TiendaLink{
+    text-align: justify;
+    float: left;
+    width: 350px;
+    border: 100px;
+    padding: 100px;
+}
